@@ -898,6 +898,10 @@ button:focus {
     width: 85%;
   }
 
+  .footer__inner--text {
+    font-size: 13px;
+  }
+
   .text--block {
     font-size: 18px;
   }
